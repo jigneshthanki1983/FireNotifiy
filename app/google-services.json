@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73449718431",
+    "firebase_url": "https://firenotifiy.firebaseio.com",
+    "project_id": "firenotifiy",
+    "storage_bucket": "firenotifiy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73449718431:android:64c0d66aadabd4e9",
+        "android_client_info": {
+          "package_name": "com.example.firenotifiy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73449718431-j8p7rq0lbf0j1kttmmh44ld9gul740ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrmHDKRyDMh8mMp4dsJLqsANZl97hYA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
